@@ -59,7 +59,6 @@ function App(){
               <Cita
                 key={cita.id}
                 cita={cita}
-                
                 eliminarCita={eliminarCita}
               />
             ))}     
